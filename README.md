@@ -9,4 +9,4 @@ This is a saying that I learned in bootcamp, we were taught that everything we w
 
 - [x] 1. I will never stop trying !
 - [x] 2. I am capable of anything I put my mind to!
-- [x] 3. Everyday is an opporunity to learn something new !
+- [x] 3. Everyday is an opporunity to learn something new !:bell:
