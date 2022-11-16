@@ -8,5 +8,6 @@ My name is _Ty-Kiara_ I am 24 and I currently work as a business development con
 This is a saying that I learned in bootcamp, we were taught that everything we would experience would be uncomfortable but as soon as you accept that feeling it becomes normal and gets easier.
 
 - [x] 1. I will never stop trying ! :loudspeaker:
-- [x] 2. I am capable of anything I put my mind to!
+- [x] 2. I am capable of anything I put my mind to! :mag_right:
 - [x] 3. Everyday is an opporunity to learn something new !:bell:
+theme:slate
